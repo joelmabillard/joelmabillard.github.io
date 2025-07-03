@@ -12,6 +12,11 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 ## Published works
+[7] F. Cicciarella, **JM**, M. Pieroni and A. Ricciardone, *A Hamilton-Jacobi formulation of anisotropic inflation*, [JCAP **09**, 044 (2019)](https://doi.org/10.1088/1475-7516/2019/09/044) [ArXiv](https://arxiv.org/pdf/1903.11154)
+
+[6] A. Berera, **JM**, M. Pieroni and R. O. Ramos, *Identifying Universality in Warm Inflation*, [JCAP **07**, 021 (2018)](https://doi.org/10.1088/1475-7516/2018/07/021) [ArXiv](https://arxiv.org/pdf/1803.04982)
+
+[5] F. Cicciarella, **JM** and M. Pieroni, *New perspectives on constant-roll inflation*, [JCAP **01**, 024 (2018)](https://doi.org/10.1088/1475-7516/2018/01/024) [ArXiv](https://arxiv.org/pdf/1709.03527)
 
 [4] P. Binétruy, **JM** and M. Pieroni, *Universality in generalized models of inflation*, [JCAP **03**, 060 (2017)](https://doi.org/10.1088/1475-7516/2017/03/060) [ArXiv](https://arxiv.org/pdf/1611.07019)
 
