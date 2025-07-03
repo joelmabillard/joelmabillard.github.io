@@ -11,54 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in theoretical physics, The University of Edinburgh (UK) (2015-2019)
+  * Supervisor: Prof. Arjun Berera
+* M2 in high energy physics, École Polytechnique, Paris-Saclay (France) (2013-2014)
+  * Master thesis supervisor: Prof Pierre Binetruy
+* M1 in high energy physics, Swiss Federal Institute of Physics (ETH), Zürich (Switzerland) (2012-2013)
+* B.Sc. in physics, Swiss Federal Institute of Physics (ETH), Zürich (Switzerland) (2009-2012)
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral fellow (Chargé de recherche FNRS), Université Libre de Bruxelles (Belgium) (2022-2024)
+  * Group of Prof. Pierre Gaspard
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral research associate, Max Planck Institute for the Physics of Complex Systems, Dresden (Germany) (2021-2022)
+  * Group of Prof. Frank Jülicher
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral research associate, Université Libre de Bruxelles (Belgium) (2019-2020)
+  * Group of Prof. Pierre Gaspard
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
