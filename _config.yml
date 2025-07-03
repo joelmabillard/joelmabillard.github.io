@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Joël Mabillard"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mabillard"
-description              : &description "Lecturer in physics\n(Maître de conférences)"
+description              : &description "Lecturer in physics (Maître de conférences), Laboratoire Matière et Systèmes Complexes"
 url                      : https://joelmabillard.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joelmabillard/joelmabillard.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Joël Mabillard"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in physics\n(Maître de conférences)"
-  location         : "Laboratoire Martière et Systèmes\nComplexes, Paris, France"
+  bio              : "Lecturer in physics (Maître de conférences), Laboratoire Matière et Systèmes Complexes"
+  location         : "Paris, France"
   employer         : "Université Paris Cité"
   uri              : # URL
   email            : "joel.mabillard@u-paris.fr" 
@@ -102,7 +102,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
