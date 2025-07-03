@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Published works"
+title: ""
 permalink: /publications/
 author_profile: true
 redirect_from:
