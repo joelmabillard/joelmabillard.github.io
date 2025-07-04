@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=G4jsJB0AAAAJ&hl=fr).
+My articles are also available on my [Google Scholar profile](https://scholar.google.com/citations?user=G4jsJB0AAAAJ&hl=fr).
 
 
 ## Published works
