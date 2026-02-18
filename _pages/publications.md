@@ -10,10 +10,9 @@ redirect_from:
 
 My articles are also available on my [Google Scholar profile](https://scholar.google.com/citations?user=G4jsJB0AAAAJ&hl=fr).
 
-## Submitted works
-[19] A. Yerle, P. Gaspard and **JM**, *Dynamic structure factor of a monatomic cubic crystal*, [ArXiv](https://arxiv.org/pdf/2408.07399)
-
 ## Published works
+[19] A. Yerle, P. Gaspard and **JM**, *Dynamic structure factor of a monatomic cubic crystal*, [J. Stat. Mech. **02**, 023214 (2026)](https://doi.org/10.1088/1742-5468/ae3d2a) [ArXiv](https://arxiv.org/pdf/2408.07399)
+
 [18] **JM** and P. Gaspard, *Vacancy diffusion and the hydrodynamics of crystals*, [Phys. Rev. E **111**, 034103 (2025)](https://doi.org/10.1103/PhysRevE.111.034103) [ArXiv](https://arxiv.org/pdf/2408.07399)
 
 [17] **JM** and P. Gaspard, *Elastic and transport coefficients of the perfect hard-sphere crystal from the poles of the hydrodynamic spectral functions*, [J. Stat. Mech. **03**, 033205 (2024)](https://doi.org/10.1088/1742-5468/ad2b5e) [ArXiv](https://arxiv.org/pdf/2312.11697)
